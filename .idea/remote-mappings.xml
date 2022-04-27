@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://zl3121352003@10.184.17.63:22/home/zl3121352003/.conda/envs/zlenv/bin/python" />
+        <remote-mappings server-id="python@sftp://zl3121352003@10.184.17.63:22/home/zl3121352003/.conda/envs/zlenv/bin/python3" />
+      </list>
+    </list>
+  </component>
+</project>

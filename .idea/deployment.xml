@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zl3121352003@10.184.17.63:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hyb/projects/DL_Projects" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zl3121352003@10.184.17.63:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/DataArea/home/zl3121352003/hyb/projects/DL_Projects" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
